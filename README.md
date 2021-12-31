@@ -1,3 +1,3 @@
 # pupspa
 
-model project for a pupspa
+model project for a pup spa
